@@ -1,8 +1,5 @@
 # Spreadsheet Questions And Answers
 
-### Touchdowns
-- 0 `NA` Row after touchdown
-
 # Punt
 - `NA` Row after Opponent **Punt** - `No Return - Touchback`
 - Do not encode rows if no return.  No row after `No Return`
